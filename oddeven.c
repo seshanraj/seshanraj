@@ -4,7 +4,8 @@ int main()
 int a;
 scanf("%d",&a);
 if(a/2)
-print("yes");
+printf("yes");
 else
-print("no");
+printf("no");
+  return 0;
 }
