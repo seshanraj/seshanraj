@@ -7,3 +7,4 @@ if(a/2)
 print("yes");
 else
 print("no");
+}
